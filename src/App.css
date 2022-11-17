@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.carlos {
+  width: 700px;
+  height: 1000px;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+  color: black !important;
+}
+
+.meme span {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  margin-top: 50px;
+  font-size: 38px;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+
+.meme img {
+  width: 45%;
+}
