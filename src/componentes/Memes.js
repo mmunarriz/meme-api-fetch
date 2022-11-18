@@ -45,7 +45,7 @@ function Memes() {
     <div className="App">
       <select onChange={onChangeImagen}>
         {pictures.map((picture) => (
-          <option value={picture.url}> {picture.id} </option>
+          <option value={picture.url}> {picture.name} </option>
         ))}
       </select>
       <br />
